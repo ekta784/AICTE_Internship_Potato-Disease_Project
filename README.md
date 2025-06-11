@@ -38,5 +38,12 @@ The goal is to build an accessible tool that assists farmers in diagnosing potat
 * Mobile app version for on-field use
 * Real-time image capture and prediction using camera integration
 * Multilingual support for farmer accessibility
+## Dataset
+
+The dataset is available in `dataset(2).zip`as it is too large to add so i upload a zip file here.  
+To use it, unzip it after cloning the repository:
+
+```bash
+unzip dataset(2).zip
 
 
