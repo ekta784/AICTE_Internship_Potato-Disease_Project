@@ -5,6 +5,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
+
 # Function to make predictions
 def model_prediction(test_image):
     # Load the trained model
