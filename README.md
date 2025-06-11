@@ -46,4 +46,19 @@ To use it, unzip it after cloning the repository:
 ```bash
 unzip dataset(2).zip
 
+the folder structure is like
+dataset/
+├── train/
+│   ├── Potato___Early_blight/
+│   ├── Potato___healthy/
+│   └── Potato___Late_blight/
+├── valid/
+│   ├── Potato___Early_blight/
+│   ├── Potato___healthy/
+│   └── Potato___Late_blight/
+└── test/
+    ├── Potato___Early_blight/
+    ├── Potato___healthy/
+    └── Potato___Late_blight/
+
 
